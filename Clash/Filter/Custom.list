@@ -1,0 +1,39 @@
+# 直连列表
+
+# 域名关键词直连
+DOMAIN-KEYWORD,udubu
+DOMAIN-KEYWORD,ghproxy
+
+# Epicgames
+DOMAIN-SUFFIX,ol.epicgames.com
+
+# Mozilla
+DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
+
+# Tencent
+DOMAIN,livew.l.qq.com
+DOMAIN,vd.l.qq.com
+
+# Strava
+DOMAIN,analytics.strava.com
+
+# Umeng
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
+
+# Miui 小米
+DOMAIN,tracking.miui.com
+
+# General
+DOMAIN,app.adjust.com
+DOMAIN,bdtj.tagtic.cn
+
+# ghproxy
+DOMAIN,ghproxy.com
+
+# 3322
+DOMAIN,3322.net
+DOMAIN,ip.3322.net
+
+# macapp
+DOMAIN,macapp.org.cn
